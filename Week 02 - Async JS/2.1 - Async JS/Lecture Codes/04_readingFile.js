@@ -8,3 +8,4 @@ const contents = fs.readFileSync("a.txt", "utf-8"); // synchronous way of readin
 
 // print the contents of the file 
 console.log(contents); 
+

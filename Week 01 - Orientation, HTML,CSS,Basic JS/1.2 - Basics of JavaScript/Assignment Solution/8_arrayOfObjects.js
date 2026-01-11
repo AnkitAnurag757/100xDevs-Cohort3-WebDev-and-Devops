@@ -1,6 +1,7 @@
 // 1. Write a function that takes an array of users as inputs and returns only the users who are more than 18 years old
 
 
+
 // define a function called `getAdultUsers` that takes an array of users as an input
 function getUsers(users) {
   // using filter method to filter out users who are more than 18 years old and store them in a new array

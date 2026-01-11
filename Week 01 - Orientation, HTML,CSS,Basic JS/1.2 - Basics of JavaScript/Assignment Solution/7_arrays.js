@@ -1,5 +1,6 @@
 // 1. Write a function that takes an array of numbers as input, and returns a new array with only even values. Read about `filter` in JS
 
+ 
 // define a function called `getEvenNumbers` that takes an array of numbers as an input
 function getEvenNumbers(numbers) {
     // using filter method to filter out even numbers from the array of numbers and store them in a new array
